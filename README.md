@@ -1,4 +1,11 @@
-### Hi there 👋
+# Language
+- Python
+- Go
+
+# Interest
+- Artificial Inteligence
+- Bot
+- Linux
 
 <!--
 **koperatti/koperatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

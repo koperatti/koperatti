@@ -7,8 +7,8 @@
 - Bot
 - Linux
 
-            .-/+oossssoo+/-.
-        `:+ssssssssssssssssss+:`
+`            .-/+oossssoo+/-.
+        ':+ssssssssssssssssss+:'
       -+ssssssssssssssssssyyssss+-
     .ossssssssssssssssssdMMMNysssso.
    /ssssssssssshdmmNNmmyNMMMMhssssss/
@@ -25,9 +25,9 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso
    /ssssssssssshdmNNNNmyNMMMMhssssss/
     .ossssssssssssssssssdMMMNysssso.
       -+sssssssssssssssssyyyssss+-
-        `:+ssssssssssssssssss+:`
+        ':+ssssssssssssssssss+:'
             .-/+oossssoo+/-.
-
+`
 <!--
 **koperatti/koperatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

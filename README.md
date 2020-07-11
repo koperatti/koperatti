@@ -7,13 +7,13 @@
 >>- Bot
 >>- Linux
 
-```
-            .-/+oossssoo+/-.
+
+            <font color="Red">.-/+oossssoo+/-.
         `:+ssssssssssssssssss+:`
-      -+ssssssssssssssssssyyssss+-
-    .ossssssssssssssssssdMMMNysssso.
-   /ssssssssssshdmmNNmmyNMMMMhssssss/
-  +ssssssssshmydMMMMMMMNddddyssssssss+
+      -+ssssssssssssssssss</font><font color="White">yy</font><font color="Red">ssss+-
+    .ossssssssssssssssssd</font><font color="White">MMMNy,/font><font color="Red">sssso.
+   /sssssssssss</font><font color="White">hdmmNNmmyNMMMMh</font><font color="Red">ssssss/
+  +sssssssss</font><font color="White">hmydMMMMMMMNddddy</font><font color="Red">ssssssss+
  /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/
 .ssssssssdMMMNhsssssssssshNMMMdssssssss.
 +sssshhhyNMMNyssssssssssssyNMMMysssssss+
@@ -28,7 +28,7 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso
       -+sssssssssssssssssyyyssss+-
         `:+ssssssssssssssssss+:`
             .-/+oossssoo+/-. 
-```
+
 <!--
 **koperatti/koperatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
